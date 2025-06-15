@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DailyDoer</string>
+    <string name="track_tick">DailyDoer</string>
+    <string name="Add_Task">Add Task</string>
+    <string name="Save">Save</string>
+    <string name="Enter_task">Enter Your Task Here</string>
+    <string name="your_tasks">Your Tasks</string>
+    <string name="task_container">Task container</string>
+    <string name="add_task">Add Task</string>
+    <string name="decorative_background">Decorative Background</string>
+    <string name="select_ntime">Select \nTime</string>
+    <string name="set_nalarm">Set \nAlarm</string>
+    <string name="cancel_nalarm">Cancel \nAlarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="set_your_alarm">Set Your Alarm</string>
+    <string name="task_name">Task Name</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="hint">Hint</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="schedule_notification">Schedule_notification</string>
+    <string name="schedule">Schedule</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="stop">Stop</string>
+    <string name="_00_00">00:00</string>
+    <string name="reminder_title">Reminder Title</string>
+    <string name="reminder_message">Reminder Message</string>
+    <string name="open_reminder">Open Reminder</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="tasks">Tasks</string>
+    <string name="no_tasks_available">No tasks available</string>
+    <string name="no_task_scheduled">No task scheduled</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="da">DailyDoer</string>
+    <string name="organize_your_day_with_ease">Organize your day with ease.</string>
+
+</resources>
